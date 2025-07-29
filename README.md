@@ -4,7 +4,7 @@
 
 ## Languages, Tools & Technologies
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,ros,docker,opencv,tensorflow,pytorch,linux,kali,ubuntu&theme=dark" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,ros,docker,opencv,tensorflow,pytorch,ubuntu&theme=dark" /> </p>
 
 ## 📊 GitHub Stats
 
