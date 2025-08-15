@@ -4,7 +4,11 @@
 
 ## Languages, Tools & Technologies
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,ros,docker,ubuntu&theme=dark" /> </p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,nodejs,html,css,ros,docker,ubuntu,c,cpp,cs&theme=dark" />
+  <img src="https://raw.githubusercontent.com/Burak1320demiroz/assets/main/ollama.svg" width="48" height="48" alt="Ollama" />
+</p>
+
 
 ## 📊 GitHub Stats
 
